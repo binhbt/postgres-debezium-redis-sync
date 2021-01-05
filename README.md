@@ -26,17 +26,9 @@ This demonstration shows how you can use Debezium to create, update, and delete 
     > docker-compose up -d
     ```
 
-1. Start Redis
+1. Redis
 
     The Java Spring application use Jedis to connect to Redis. The connection string is located in the `application.properties` file.
-
-    Open a new terminal and run the command:
-
-    ```
-    > docker run -it --rm --name redis -p 6379:6379 redis
-    ```
-
-
 
 1. Connect to PostgreSQL & create tables
     
