@@ -15,8 +15,7 @@ This demonstration shows how you can use Debezium to create, update, and delete 
 
 * Docker
    * To run Postgresl & Redis
-* Java Developer Kit (8 or later)
-* Apache Maven
+
 
 ### Running the demonstration
 
