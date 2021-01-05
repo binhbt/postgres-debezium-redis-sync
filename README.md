@@ -14,7 +14,6 @@ This demonstration shows how you can use Debezium to create, update, and delete 
 **Prerequisites**
 
 * Docker
-   * To run Postgresl & Redis
 
 
 ### Running the demonstration
